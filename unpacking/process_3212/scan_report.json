@@ -1,0 +1,101 @@
+ {
+  "pid" : 3212,
+  "is_64_bit" : 0,
+  "is_managed" : 0,
+  "main_image_path" : "C:\\Zylon Gaming\\Bots\\bout.dat",
+  "used_reflection" : 0,
+  "scanner_version" : "0.4.1",
+  "scanned" : 
+  {
+   "total" : 95,
+   "skipped" : 0,
+   "modified" : 
+   {
+    "total" : 7,
+    "patched" : 4,
+    "iat_hooked" : 2,
+    "replaced" : 0,
+    "hdr_modified" : 1,
+    "implanted_pe" : 0,
+    "implanted_shc" : 0,
+    "unreachable_file" : 0,
+    "other" : 0
+   },
+   "errors" : 0
+  },
+  "scans" : [
+   {
+    "headers_scan" : {
+     "status" : 1,
+     "module" : "400000",
+     "module_size" : "ea5000",
+     "module_file" : "C:\\Zylon Gaming\\Bots\\bout.dat",
+     "is_connected_to_peb" : 1,
+     "is_pe_replaced" : 0,
+     "dos_hdr_modified" : 0,
+     "file_hdr_modified" : 0,
+     "nt_hdr_modified" : 0,
+     "ep_modified" : 0,
+     "sec_hdr_modified" : 0
+    }
+   },
+   {
+    "code_scan" : {
+     "status" : 1,
+     "module" : "400000",
+     "module_size" : "ea5000",
+     "module_file" : "C:\\Zylon Gaming\\Bots\\bout.dat",
+     "scanned_sections" : 5,
+     "patches" : 566105
+    }
+   },
+   {
+    "code_scan" : {
+     "status" : 1,
+     "module" : "77500000",
+     "module_size" : "1bb000",
+     "module_file" : "C:\\WINDOWS\\SysWoW64\\ntdll.dll",
+     "scanned_sections" : 3,
+     "patches" : 58
+    }
+   },
+   {
+    "code_scan" : {
+     "status" : 1,
+     "module" : "766f0000",
+     "module_size" : "f0000",
+     "module_file" : "C:\\WINDOWS\\SysWoW64\\kernel32.dll",
+     "scanned_sections" : 1,
+     "patches" : 1
+    }
+   },
+   {
+    "code_scan" : {
+     "status" : 1,
+     "module" : "75620000",
+     "module_size" : "60000",
+     "module_file" : "C:\\WINDOWS\\SysWoW64\\ws2_32.dll",
+     "scanned_sections" : 2,
+     "patches" : 4
+    }
+   },
+   {
+    "iat_scan" : {
+     "status" : 1,
+     "module" : "71630000",
+     "module_size" : "ec000",
+     "module_file" : "C:\\WINDOWS\\SysWoW64\\ddraw.dll",
+     "hooks" : 74
+    }
+   },
+   {
+    "iat_scan" : {
+     "status" : 1,
+     "module" : "71870000",
+     "module_size" : "17f000",
+     "module_file" : "C:\\WINDOWS\\SysWoW64\\d3d9.dll",
+     "hooks" : 95
+    }
+   }
+  ]
+ }

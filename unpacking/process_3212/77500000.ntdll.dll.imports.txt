@@ -1,0 +1,134 @@
+---
+IAT at: 1af3, size: 4, thunks: 1, is_terminated: 0, in_main: 0
+---
+1af3,10001000,boutcmd.BOUTCMD_Startup #19
+---
+IAT at: 6fe1, size: 1c, thunks: 7, is_terminated: 0, in_main: 0
+---
+6fe1,10001000,boutcmd.BOUTCMD_Startup #19
+6fe5,10001000,boutcmd.BOUTCMD_Startup #19
+6fe9,10001000,boutcmd.BOUTCMD_Startup #19
+6fed,10001000,boutcmd.BOUTCMD_Startup #19
+6ff1,10001000,boutcmd.BOUTCMD_Startup #19
+6ff5,10001000,boutcmd.BOUTCMD_Startup #19
+6ff9,10001000,boutcmd.BOUTCMD_Startup #19
+---
+IAT at: 7013, size: c, thunks: 3, is_terminated: 0, in_main: 0
+---
+7013,10001000,boutcmd.BOUTCMD_Startup #19
+7017,10001000,boutcmd.BOUTCMD_Startup #19
+701b,10001000,boutcmd.BOUTCMD_Startup #19
+---
+IAT at: 7055, size: c, thunks: 3, is_terminated: 0, in_main: 0
+---
+7055,10001000,boutcmd.BOUTCMD_Startup #19
+7059,10001000,boutcmd.BOUTCMD_Startup #19
+705d,10001000,boutcmd.BOUTCMD_Startup #19
+---
+IAT at: 7095, size: 8, thunks: 2, is_terminated: 0, in_main: 0
+---
+7095,10001000,boutcmd.BOUTCMD_Startup #19
+7099,10001000,boutcmd.BOUTCMD_Startup #19
+---
+IAT at: 71e3, size: 1c, thunks: 7, is_terminated: 0, in_main: 0
+---
+71e3,10001000,boutcmd.BOUTCMD_Startup #19
+71e7,10001000,boutcmd.BOUTCMD_Startup #19
+71eb,10001000,boutcmd.BOUTCMD_Startup #19
+71ef,10001000,boutcmd.BOUTCMD_Startup #19
+71f3,10001000,boutcmd.BOUTCMD_Startup #19
+71f7,10001000,boutcmd.BOUTCMD_Startup #19
+71fb,10001000,boutcmd.BOUTCMD_Startup #19
+---
+IAT at: 7215, size: c, thunks: 3, is_terminated: 0, in_main: 0
+---
+7215,10001000,boutcmd.BOUTCMD_Startup #19
+7219,10001000,boutcmd.BOUTCMD_Startup #19
+721d,10001000,boutcmd.BOUTCMD_Startup #19
+---
+IAT at: 7259, size: 8, thunks: 2, is_terminated: 0, in_main: 0
+---
+7259,10001000,boutcmd.BOUTCMD_Startup #19
+725d,10001000,boutcmd.BOUTCMD_Startup #19
+---
+IAT at: 7299, size: 4, thunks: 1, is_terminated: 0, in_main: 0
+---
+7299,10001000,boutcmd.BOUTCMD_Startup #19
+---
+IAT at: 72e3, size: 20, thunks: 8, is_terminated: 0, in_main: 0
+---
+72e3,10001000,boutcmd.BOUTCMD_Startup #19
+72e7,10001000,boutcmd.BOUTCMD_Startup #19
+72eb,10001000,boutcmd.BOUTCMD_Startup #19
+72ef,10001000,boutcmd.BOUTCMD_Startup #19
+72f3,10001000,boutcmd.BOUTCMD_Startup #19
+72f7,10001000,boutcmd.BOUTCMD_Startup #19
+72fb,10001000,boutcmd.BOUTCMD_Startup #19
+72ff,10001000,boutcmd.BOUTCMD_Startup #19
+---
+IAT at: 7309, size: 8, thunks: 2, is_terminated: 0, in_main: 0
+---
+7309,10001000,boutcmd.BOUTCMD_Startup #19
+730d,10001000,boutcmd.BOUTCMD_Startup #19
+---
+IAT at: 7315, size: c, thunks: 3, is_terminated: 0, in_main: 0
+---
+7315,10001000,boutcmd.BOUTCMD_Startup #19
+7319,10001000,boutcmd.BOUTCMD_Startup #19
+731d,10001000,boutcmd.BOUTCMD_Startup #19
+---
+IAT at: a14f, size: 8, thunks: 2, is_terminated: 0, in_main: 0
+---
+a14f,10001000,boutcmd.BOUTCMD_Startup #19
+a153,10001000,boutcmd.BOUTCMD_Startup #19
+---
+IAT at: a1cf, size: 10, thunks: 4, is_terminated: 0, in_main: 0
+---
+a1cf,10001000,boutcmd.BOUTCMD_Startup #19
+a1d3,10001000,boutcmd.BOUTCMD_Startup #19
+a1d7,10001000,boutcmd.BOUTCMD_Startup #19
+a1db,10001000,boutcmd.BOUTCMD_Startup #19
+---
+IAT at: a205, size: 4, thunks: 1, is_terminated: 0, in_main: 0
+---
+a205,10001500,boutcmd.BOUTCMD_Pong #15
+---
+IAT at: 2d125, size: 4, thunks: 1, is_terminated: 0, in_main: 0
+---
+2d125,751b3900,win32u.NtGdiEndPage #405
+---
+IAT at: 34052, size: 4, thunks: 1, is_terminated: 0, in_main: 0
+---
+34052,75c38a20,combase.InternalCMLSendReceive #402
+---
+IAT at: 4dcee, size: 4, thunks: 1, is_terminated: 0, in_main: 0
+---
+4dcee,75b70f00,combase.HSTRING_UserUnmarshal #387
+---
+IAT at: 4dd7c, size: 4, thunks: 1, is_terminated: 0, in_main: 0
+---
+4dd7c,75b70f00,combase.HSTRING_UserUnmarshal #387
+---
+IAT at: cd875, size: 4, thunks: 1, is_terminated: 0, in_main: 0
+---
+cd875,76750000,kernel32.GetCompressedFileSizeTransactedA #510
+---
+IAT at: f3c64, size: 4, thunks: 1, is_terminated: 0, in_main: 0
+---
+f3c64,7366e850,iphlpapi.GetOwnerModuleFromPidAndInfo #127
+---
+IAT at: 104014, size: 4, thunks: 1, is_terminated: 0, in_main: 0
+---
+104014,75560200,kernelbase.PssWalkMarkerFree #1358
+---
+IAT at: 135268, size: 8, thunks: 1, is_terminated: 1, in_main: 0
+---
+135268,76705d30,kernel32.BaseThreadInitThunk #1
+---
+IAT at: 137140, size: 4, thunks: 1, is_terminated: 0, in_main: 0
+---
+137140,76730340,kernel32.BaseQueryModuleData #74
+---
+IAT at: 1372b4, size: 14, thunks: 1, is_terminated: 1, in_main: 0
+---
+1372b4,754b4200,kernelbase.ReleaseActCtx #1511

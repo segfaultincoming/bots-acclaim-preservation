@@ -1,0 +1,76 @@
+ {
+  "pid" : 3212,
+  "output_dir" : "process_3212",
+  "dumped" : 
+  {
+   "total" : 6,
+   "dumped" : 6
+  },
+  "dumps" : [
+   {
+    "module" : "400000",
+    "module_size" : "ea5000",
+    "dump_file" : "400000.bout.dat",
+    "imports_file" : "400000.bout.dat.imports.txt",
+    "imp_rec_result" : "IMP_RECREATED_FILTER2",
+    "dump_mode" : "REALIGNED",
+    "is_shellcode" : 0,
+    "status" : 1
+   },
+   {
+    "module" : "77500000",
+    "module_size" : "1bb000",
+    "dump_file" : "77500000.ntdll.dll",
+    "tags_file" : "77500000.ntdll.dll.tag",
+    "imports_file" : "77500000.ntdll.dll.imports.txt",
+    "imp_rec_result" : "IMP_RECREATED_FILTER2",
+    "dump_mode" : "REALIGNED",
+    "is_shellcode" : 0,
+    "status" : 1
+   },
+   {
+    "module" : "766f0000",
+    "module_size" : "e5000",
+    "dump_file" : "766f0000.kernel32.dll",
+    "tags_file" : "766f0000.kernel32.dll.tag",
+    "imports_file" : "766f0000.kernel32.dll.imports.txt",
+    "imp_rec_result" : "IMP_RECREATED_FILTER2",
+    "dump_mode" : "REALIGNED",
+    "is_shellcode" : 0,
+    "status" : 1
+   },
+   {
+    "module" : "75620000",
+    "module_size" : "60000",
+    "dump_file" : "75620000.ws2_32.dll",
+    "tags_file" : "75620000.ws2_32.dll.tag",
+    "imports_file" : "75620000.ws2_32.dll.imports.txt",
+    "imp_rec_result" : "IMP_RECREATED_FILTER2",
+    "dump_mode" : "REALIGNED",
+    "is_shellcode" : 0,
+    "status" : 1
+   },
+   {
+    "module" : "71630000",
+    "module_size" : "ec000",
+    "dump_file" : "71630000.ddraw.dll",
+    "imports_file" : "71630000.ddraw.dll.imports.txt",
+    "imp_rec_result" : "IMP_RECREATED_FILTER2",
+    "iat_hooks_file" : "71630000.ddraw.dll.iat_hooks.txt",
+    "dump_mode" : "REALIGNED",
+    "is_shellcode" : 0,
+    "status" : 1
+   },
+   {
+    "module" : "71870000",
+    "module_size" : "17f000",
+    "dump_file" : "71870000.d3d9.dll",
+    "imports_file" : "71870000.d3d9.dll.imports.txt",
+    "imp_rec_result" : "IMP_RECREATED_FILTER2",
+    "iat_hooks_file" : "71870000.d3d9.dll.iat_hooks.txt",
+    "dump_mode" : "REALIGNED",
+    "is_shellcode" : 0,
+    "status" : 1
+   }
+  ]
+ }
