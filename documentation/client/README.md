@@ -34,16 +34,6 @@ Technical reference for all file formats found in the game:
 - UI and image formats (.sct, .tga, .dds)
 - Audio and executable formats
 
-### [Protection Analysis](Yodas_Cryptor_Summary.md)
-
-Analysis of the game's anti-tampering protection system:
-
-- Yoda's Cryptor 1.x packing and encryption layers
-- Custom compression algorithms and decompression
-- GameGuard distributed architecture and components
-- Anti-debugging techniques and bypass strategies
-- Current reverse engineering progress and challenges
-
 ## Key Findings Summary
 
 ### Game Architecture
