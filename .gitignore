@@ -3,3 +3,6 @@ results_old/
 client_parts/
 yomama/
 !yomama/.gitkeep
+*.lock
+*.lock~
+~*.db
