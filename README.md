@@ -3,7 +3,7 @@
 > "I can do it in 5 minutes" - Famous last words of a software engineer attempting to reverse engineer a 2006 MMO
 
 [![Journey Progress](https://img.shields.io/badge/Journey-Day%206-blue)](journey/)
-[![Game Year](https://img.shields.io/badge/BOTS!!-2006-orange)](<https://en.wikipedia.org/wiki/Bots_(video_game)>)
+[![Game Year](https://img.shields.io/badge/BOTS!!-2006-orange)](https://en.wikipedia.org/wiki/Bots!!)
 
 ## 🎯 Mission
 
