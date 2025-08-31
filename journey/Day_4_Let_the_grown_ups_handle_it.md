@@ -18,21 +18,37 @@ I've reached out to several communities:
 
 ## GameGuard
 
-Well, community reachout worked! A guy (TODO: Add his @ if he's okay with it) from Nathan Baggs' Discord sent me crucial information about BOTS' GameGuard. He remembered a thread from a while ago, which contained explanation of [how to defeat and emulate](https://www.unknowncheats.me/forum/anti-cheat-bypass/61084-e-book-defeating-and-emulating-incas-nprotect-gameguard.html) nProtect's GameGuard and [how to bypass it with hooks](https://github.com/neetjn/oro-bypass).
+Well, community reachout worked!
+
+Crucial information from Nathan Baggs' Discord:
+
+- [mradamdavies](https://github.com/mradamdavies) from Nathan Baggs' Discord sent me crucial information about BOTS' GameGuard. He remembered a thread from a while ago, which contained explanation of [how to defeat and emulate](https://www.unknowncheats.me/forum/anti-cheat-bypass/61084-e-book-defeating-and-emulating-incas-nprotect-gameguard.html) nProtect's GameGuard.
+- @foreverbronze sent me a GitHub repo explaining [how to bypass the GameGuard with hooks](https://github.com/neetjn/oro-bypass). For a different game, but more or less the same GameGuard.
+
+### Server communication
+
+> The server sends out four DWORDs to the game client at
+> random intervals (index, value1, value2, value3). The game
+> client takes these values and sends them to GameMon.des (the
+> process of GameGuard) through a pipe.
+
+In desperation, I think that there's no way to unpack the client... does the client require these values before it jumps to the OEP?
+
+How do I go from here?
 
 ## Time to learn
 
-It was clear that even that I had all of this information about the GameGuard, I had to do a lot of work to get to the point, where I can reverse engineer or even just unpack this thing.
+It was clear that even though I had all of this information about the GameGuard, I had to do a lot of work to get to the point, where I can reverse engineer or even just unpack this thing.
 
 ### Tooling is crucial
 
-So far, when I was interested in something, the AI was writing the tools for me. Don't. Do. That. The reverse engineering community is HUGE! If you need a tool there is a 99.99% chance that it exists
+So far, when I was interested in something, the AI was writing the tools for me. Don't. Do. That. The reverse engineering community is HUGE! If you need a tool there is a 99.99% chance that it exists.
 
 ### Materials
 
-[The Cyber Yeti](https://www.youtube.com/@jstrosch)'s videos are gold mine! I've gone through his x86 assembly lectures and saw his unpacking process (not Yoda, but still unpacking)! Thank you!
+[The Cyber Yeti](https://www.youtube.com/@jstrosch)'s videos are a gold mine! I've gone through his x86 assembly lectures and saw his unpacking process (not Yoda, but still unpacking)! Thank you!
 
-[Nathan Baggs](https://www.youtube.com/@nathanbaggs) was already mentioned, but it's worth to mention him again. He has 100% stumbled upon packed game, I will just watch his videos before I go to sleep and hope that I will see one. Entertaining, useful, thank you!
+[Nathan Baggs](https://www.youtube.com/@nathanbaggs) was already mentioned, but it's worth mentioning him again. He has 100% stumbled upon packed game, I will just watch his videos before I go to sleep and hope that I will see one. Entertaining, useful, thank you!
 
 ## 2:00 AM
 
@@ -40,7 +56,7 @@ I guess that I was so focused on learning and I couldn't fall asleep. And out of
 
 ### Realization
 
-GameGuard contained code in its `*.des` files. Maybe the jump to the entry point happened after execution of that code or it was doing some more unpacking. The GameGuard was also a system service. I didn't install the game, I didn't have the service! Remember, I used zipped version of the client! No GameGuard service running, no party!
+GameGuard contained code in its `*.des` files. The GameGuard was also a system service. I didn't install the game, I didn't have the service! Remember, I used zipped version of the client! No GameGuard service running, no party!
 
 ### Ancient history
 
@@ -58,7 +74,7 @@ A few minutes and heart attacks later, I have it. I've copied it to external sto
 
 We have a visit from C-level management tomorrow. It's 2:30AM. I have to wake up at 6:00AM. Wish me luck!
 
-Plan for tomorrow:
+## Plan for tomorrow:
 
 1. Install the game from the installer
 2. Use x64dbg to debug it
