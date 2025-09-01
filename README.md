@@ -20,6 +20,7 @@ This repository documents my personal reverse engineering journey - from nostalg
 
 ### 📝 Daily Logs
 
+- **✅ Day 7**: [The red pill](journey/Day_7_The_red_pill.md)
 - **✅ Day 6**: [Did I?](journey/Day_6_Did_I.md)
 - **✅ Day 5**: [3 IQ](journey/Day_5_3_IQ.md)
 - **✅ Day 4**: [Let the grown-ups handle it](journey/Day_4_Let_the_grown_ups_handle_it.md)
