@@ -91,7 +91,7 @@ One more for sanity check...
 
 So I'm confident now:
 
-- `1XX`, initial screen
+- `1XX`, loading screen
 - `2XX`, lobby screen
 - `3XX`, room screen
 - `4XX`, shop screen
