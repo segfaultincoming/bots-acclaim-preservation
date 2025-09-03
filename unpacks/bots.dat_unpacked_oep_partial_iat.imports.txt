@@ -1,0 +1,462 @@
+---
+IAT at: 23137b, size: 4, thunks: 1, is_terminated: 0, in_main: 0
+---
+23137b,171440,nlogcmd.NLOGCMD_ReplyGameServerInfo #5
+---
+IAT at: 233cc5, size: 4, thunks: 1, is_terminated: 0, in_main: 0
+---
+233cc5,171440,nlogcmd.NLOGCMD_ReplyGameServerInfo #5
+---
+IAT at: 237bb1, size: 4, thunks: 1, is_terminated: 0, in_main: 0
+---
+237bb1,760c4d89,user32.MenuItemFromPoint #2035
+---
+IAT at: 25d2b5, size: 4, thunks: 1, is_terminated: 0, in_main: 0
+---
+25d2b5,760c4d89,user32.MenuItemFromPoint #2035
+---
+IAT at: 27ed3a, size: 4, thunks: 1, is_terminated: 0, in_main: 0
+---
+27ed3a,760c4d89,user32.MenuItemFromPoint #2035
+---
+IAT at: 28acdd, size: 4, thunks: 1, is_terminated: 0, in_main: 0
+---
+28acdd,760c4d89,user32.MenuItemFromPoint #2035
+---
+IAT at: 2b629a, size: 4, thunks: 1, is_terminated: 0, in_main: 0
+---
+2b629a,7589abf3,kernelbase.SetSecurityDescriptorDacl #547
+---
+IAT at: 2f6430, size: 4, thunks: 1, is_terminated: 0, in_main: 0
+---
+2f6430,76e90c46,kernel32.FindNextStreamW #329
+---
+IAT at: 5a967b, size: 4, thunks: 1, is_terminated: 0, in_main: 0
+---
+5a967b,75727564,cfgmgr32.CM_Get_Device_Interface_List_ExA #117
+---
+IAT at: 5b1f23, size: 4, thunks: 1, is_terminated: 0, in_main: 0
+---
+5b1f23,75716573,cfgmgr32.CM_Is_Version_Available_Ex #166
+---
+IAT at: 5b2069, size: 4, thunks: 1, is_terminated: 0, in_main: 0
+---
+5b2069,75716573,cfgmgr32.CM_Is_Version_Available_Ex #166
+---
+IAT at: 60929c, size: 4, thunks: 1, is_terminated: 0, in_main: 0
+---
+60929c,75716573,cfgmgr32.CM_Is_Version_Available_Ex #166
+---
+IAT at: 6243c2, size: 4, thunks: 1, is_terminated: 0, in_main: 0
+---
+6243c2,75716573,cfgmgr32.CM_Is_Version_Available_Ex #166
+---
+IAT at: 6246d6, size: 4, thunks: 1, is_terminated: 0, in_main: 0
+---
+6246d6,75716573,cfgmgr32.CM_Is_Version_Available_Ex #166
+---
+IAT at: 62570b, size: 4, thunks: 1, is_terminated: 0, in_main: 0
+---
+62570b,75716573,cfgmgr32.CM_Is_Version_Available_Ex #166
+---
+IAT at: 625882, size: 4, thunks: 1, is_terminated: 0, in_main: 0
+---
+625882,75716573,cfgmgr32.CM_Is_Version_Available_Ex #166
+---
+IAT at: 6258df, size: 4, thunks: 1, is_terminated: 0, in_main: 0
+---
+6258df,75716573,cfgmgr32.CM_Is_Version_Available_Ex #166
+---
+IAT at: 625a96, size: 4, thunks: 1, is_terminated: 0, in_main: 0
+---
+625a96,75716573,cfgmgr32.CM_Is_Version_Available_Ex #166
+---
+IAT at: 62752a, size: 4, thunks: 1, is_terminated: 0, in_main: 0
+---
+62752a,75716573,cfgmgr32.CM_Is_Version_Available_Ex #166
+---
+IAT at: 628674, size: 4, thunks: 1, is_terminated: 0, in_main: 0
+---
+628674,10001070,kidsock.KidSock_CreateClientSocket #5
+---
+IAT at: 62ba19, size: 4, thunks: 1, is_terminated: 0, in_main: 0
+---
+62ba19,75716573,cfgmgr32.CM_Is_Version_Available_Ex #166
+---
+IAT at: 62bf7b, size: 4, thunks: 1, is_terminated: 0, in_main: 0
+---
+62bf7b,75716573,cfgmgr32.CM_Is_Version_Available_Ex #166
+---
+IAT at: 62bfee, size: 4, thunks: 1, is_terminated: 0, in_main: 0
+---
+62bfee,75716573,cfgmgr32.CM_Is_Version_Available_Ex #166
+---
+IAT at: 62c08f, size: 4, thunks: 1, is_terminated: 0, in_main: 0
+---
+62c08f,75716573,cfgmgr32.CM_Is_Version_Available_Ex #166
+---
+IAT at: 62c26b, size: 4, thunks: 1, is_terminated: 0, in_main: 0
+---
+62c26b,75716573,cfgmgr32.CM_Is_Version_Available_Ex #166
+---
+IAT at: 65ae33, size: 4, thunks: 1, is_terminated: 0, in_main: 0
+---
+65ae33,77005d01,advapi32.SystemFunction017 #1736
+---
+IAT at: 6611f4, size: 4, thunks: 1, is_terminated: 0, in_main: 0
+---
+6611f4,10001010,kidsock.KidSock_Startup #10
+---
+IAT at: 7a8a38, size: 8, thunks: 1, is_terminated: 1, in_main: 0
+---
+7a8a38,620566c6,d3d9.DebugSetMute #12
+---
+IAT at: 7a8a48, size: c, thunks: 3, is_terminated: 0, in_main: 0
+---
+7a8a48,773bbd0d,gdi32.GetCharABCWidthsI #1448
+7a8a4c,773dbe3d,gdi32.GetCharWidthI #1455
+7a8a50,773bfd82,gdi32.GetFontUnicodeRanges #1491
+---
+IAT at: 7a8a58, size: 40, thunks: 10, is_terminated: 0, in_main: 0
+---
+7a8a58,771a5a10,usp10.ScriptItemize #18
+7a8a5c,771a5b10,usp10.ScriptShape #26
+7a8a60,771a5ce0,usp10.ScriptPlace #22
+7a8a64,771a68b0,usp10.ScriptBreak #4
+7a8a68,771a6190,usp10.ScriptJustify #20
+7a8a6c,771a5ec0,usp10.ScriptTextOut #40
+7a8a70,771a7290,usp10.ScriptGetProperties #16
+7a8a74,771a59a0,usp10.ScriptFreeCache #7
+7a8a78,771a8750,usp10.ScriptRecordDigitSubstitution #25
+7a8a7c,771a8a80,usp10.ScriptApplyDigitSubstitution #2
+7a8a80,771a72d0,usp10.ScriptGetFontProperties #12
+7a8a84,771a7780,usp10.ScriptStringAnalyse #28
+7a8a88,771a82d0,usp10.ScriptStringOut #33
+7a8a8c,771a7a90,usp10.ScriptStringFree #30
+7a8a90,771a7d40,usp10.ScriptStringCPtoX #29
+7a8a94,771a7b00,usp10.ScriptString_pSize #37
+---
+IAT at: 7ab680, size: c, thunks: 2, is_terminated: 1, in_main: 0
+---
+7ab680,76e964c5,kernel32.Process32First #918
+7ab684,76ec18ea,kernel32.Module32Next #861
+---
+IAT at: 7ab790, size: 224, thunks: 3, is_terminated: 1, in_main: 0
+---
+7ab790,76e6ff2a,kernel32.CreateToolhelp32Snapshot #193
+7ab9a4,76ec1801,kernel32.Module32First #859
+7ab9a8,76e9658d,kernel32.Process32Next #920
+---
+IAT at: 7ae316, size: 4, thunks: 1, is_terminated: 0, in_main: 0
+---
+7ae316,10001010,kidsock.KidSock_Startup #10
+---
+IAT at: 7b0b60, size: 5c, thunks: 17, is_terminated: 0, in_main: 0
+---
+7b0b60,76fcdee6,advapi32.CryptGetHashParam #1198
+7b0b64,76fd1399,advapi32.RegCreateKeyExA #1570
+7b0b68,77003464,advapi32.CryptDeriveKey #1183
+7b0b6c,77003454,advapi32.CryptDecrypt #1182
+7b0b70,76fcdeb6,advapi32.CryptCreateHash #1181
+7b0b74,76fcde9e,advapi32.CryptHashData #1202
+7b0b78,770035a4,advapi32.CryptVerifySignatureA #1215
+7b0b7c,76fcdece,advapi32.CryptDestroyHash #1184
+7b0b80,76fcceb1,advapi32.RegEnumValueA #1595
+7b0b84,76fea46a,advapi32.RegDeleteValueA #1585
+7b0b88,76fea434,advapi32.GetUserNameA #1359
+7b0b8c,76fd4550,advapi32.InitializeSecurityDescriptor #1377
+7b0b90,76fd4823,advapi32.RegQueryValueExA #1623
+7b0b94,76fd483b,advapi32.RegOpenKeyExA #1610
+7b0b98,76fd13e3,advapi32.RegSetValueExA #1639
+7b0b9c,76fd45cd,advapi32.RegCloseKey #1562
+7b0ba0,76fccb7d,advapi32.RegOpenKeyA #1609
+7b0ba4,76fd408e,advapi32.SetSecurityDescriptorDacl #1696
+7b0ba8,76fc9143,advapi32.CryptAcquireContextA #1178
+7b0bac,76fcc49a,advapi32.CryptImportKey #1204
+7b0bb0,76fe771b,advapi32.CryptEncrypt #1188
+7b0bb4,76fcc482,advapi32.CryptDestroyKey #1185
+7b0bb8,76fce08c,advapi32.CryptReleaseContext #1205
+---
+IAT at: 7b0bf8, size: 14, thunks: 5, is_terminated: 0, in_main: 0
+---
+7b0bf8,301ad0,boutcmd.BOUTCMD_GCommandLeaveGame #12
+7b0bfc,301500,boutcmd.BOUTCMD_Pong #15
+7b0c00,301630,boutcmd.BOUTCMD_ChatWhisper #2
+7b0c04,301590,boutcmd.BOUTCMD_Chat #1
+7b0c08,301ca0,boutcmd.BOUTCMD_ReplyPacket #17
+---
+IAT at: 7b0c3c, size: 4, thunks: 1, is_terminated: 0, in_main: 0
+---
+7b0c3c,6990ebc6,ddraw.DirectDrawCreateEx #10
+---
+IAT at: 7b0c6c, size: 4, thunks: 1, is_terminated: 0, in_main: 0
+---
+7b0c6c,5ef6cc8e,dinput8.DirectInput8Create #1
+---
+IAT at: 7b0c9c, size: 4, thunks: 1, is_terminated: 0, in_main: 0
+---
+7b0c9c,51f3de69,dsound.DirectSoundCreate8 #11
+---
+IAT at: 7b0ccc, size: 60, thunks: 18, is_terminated: 0, in_main: 0
+---
+7b0ccc,773c000d,gdi32.ExtTextOutA #1323
+7b0cd0,773b6888,gdi32.CreateCompatibleDC #1060
+7b0cd4,773b818e,gdi32.SetTextAlign #1688
+7b0cd8,773badfc,gdi32.CreateFontIndirectW #1076
+7b0cdc,773b8b21,gdi32.MoveToEx #1582
+7b0ce0,773b8092,gdi32.ExtTextOutW #1324
+7b0ce4,773bd541,gdi32.CreateFontIndirectA #1073
+7b0ce8,773d0ff5,gdi32.GetFontLanguageInfo #1488
+7b0cec,773bd474,gdi32.GetTextMetricsA #1561
+7b0cf0,773b69b1,gdi32.SetBkMode #1651
+7b0cf4,773b6a3c,gdi32.SetBkColor #1650
+7b0cf8,773b6906,gdi32.SetTextColor #1690
+7b0cfc,773dc6bb,gdi32.GetCharacterPlacementW #1459
+7b0d00,773dbaa4,gdi32.GetCharacterPlacementA #1458
+7b0d04,773b8750,gdi32.CreateDIBSection #1065
+7b0d08,773b7568,gdi32.GetObjectW #1521
+7b0d0c,773b90c0,gdi32.GetObjectA #1519
+7b0d10,773bd62c,gdi32.CreateFontA #1072
+7b0d14,773b7a8f,gdi32.GetTextMetricsW #1562
+7b0d18,773beeb7,gdi32.SetMapMode #1672
+7b0d1c,773b6640,gdi32.SelectObject #1643
+7b0d20,773c038a,gdi32.GetTextExtentPoint32A #1553
+7b0d24,773b5f14,gdi32.DeleteObject #1242
+7b0d28,773b6eaa,gdi32.DeleteDC #1239
+---
+IAT at: 7b0d68, size: 18, thunks: 6, is_terminated: 0, in_main: 0
+---
+7b0d68,77404c7d,imm32.ImmSetConversionStatus #118
+7b0d6c,774037dc,imm32.ImmGetConversionStatus #60
+7b0d70,774084b9,imm32.ImmGetCompositionStringA #54
+7b0d74,7740299d,imm32.ImmGetContext #57
+7b0d78,77408da2,imm32.ImmGetCandidateListA #47
+7b0d7c,77402a67,imm32.ImmReleaseContext #105
+---
+IAT at: 7b0de4, size: 4, thunks: 1, is_terminated: 0, in_main: 0
+---
+7b0de4,76e7eaa8,kernel32.CloseHandle #85
+---
+IAT at: 7b0dec, size: 4, thunks: 1, is_terminated: 0, in_main: 0
+---
+7b0dec,76e7eca1,kernel32.CreateFileA #139
+---
+IAT at: 7b0e38, size: 4, thunks: 1, is_terminated: 0, in_main: 0
+---
+7b0e38,76e7dea5,kernel32.LoadLibraryA #830
+---
+IAT at: 7b0f84, size: 4, thunks: 1, is_terminated: 0, in_main: 0
+---
+7b0f84,76e8bed2,kernel32.ExitProcess #284
+---
+IAT at: 7b0fb4, size: 8, thunks: 2, is_terminated: 0, in_main: 0
+---
+7b0fb4,76e808a9,kernel32.SetFilePointer #1129
+7b0fb8,76e79db6,kernel32.ReadFile #961
+---
+IAT at: 7b10bc, size: 14, thunks: 5, is_terminated: 0, in_main: 0
+---
+7b10bc,10001060,kidsock.KidSock_Cleanup #2
+7b10c0,10001010,kidsock.KidSock_Startup #10
+7b10c4,10001140,kidsock.KidSock_ConnectToServer #4
+7b10c8,10001070,kidsock.KidSock_CreateClientSocket #5
+7b10cc,10001190,kidsock.KidSock_CloseSocket #3
+---
+IAT at: 7b1100, size: c, thunks: 3, is_terminated: 0, in_main: 0
+---
+7b1100,171030,nlogcmd.NLOGCMD_Cleanup #1
+7b1104,171000,nlogcmd.NLOGCMD_Startup #8
+7b1108,171320,nlogcmd.NLOGCMD_RequestLogin #7
+---
+IAT at: 7b1138, size: c, thunks: 3, is_terminated: 0, in_main: 0
+---
+7b1138,77314728,oleaut32.SysAllocString #2
+7b113c,77313f49,oleaut32.VariantInit #8
+7b1140,77313f20,oleaut32.VariantClear #9
+---
+IAT at: 7b1170, size: 4, thunks: 1, is_terminated: 0, in_main: 0
+---
+7b1170,76428828,shell32.ShellExecuteA #433
+---
+IAT at: 7b11a0, size: c8, thunks: 32, is_terminated: 0, in_main: 0
+---
+7b11a0,76073f17,user32.wsprintfA #2331
+7b11a4,76093b03,user32.GetActiveWindow #1765
+7b11a8,7606b40e,user32.PostMessageA #2078
+7b11ac,760bea99,user32.MessageBoxA #2039
+7b11b0,76072362,user32.PtInRect #2089
+7b11b4,760752bf,user32.SetTimer #2212
+7b11b8,7606acd1,user32.PostThreadMessageA #2081
+7b11bc,760764c7,user32.KillTimer #1992
+7b11c0,76076497,user32.TranslateMessage #2277
+7b11c4,7609130f,user32.TranslateAccelerator #2273
+7b11c8,76081fe9,user32.IsDialogMessage #1968
+7b11cc,76071869,user32.GetMessageA #1854
+7b11d0,76071975,user32.PeekMessageA #2075
+7b11d4,760680c8,user32.SystemParametersInfoA #2260
+7b11d8,76068fb9,user32.FindWindowA #1756
+7b11dc,760664db,user32.ShowCursor #2243
+7b11e0,7606ff70,user32.UpdateWindow #2298
+7b11e4,7606f271,user32.ShowWindow #2248
+7b11e8,7606bf08,user32.CreateWindowExA #1618
+7b11ec,7607679f,user32.GetSystemMetrics #1891
+7b11f0,7608add2,user32.LoadAcceleratorsA #1993
+7b11f4,7606629b,user32.RegisterClassExA #2101
+7b11f8,76068310,user32.LoadCursorA #1997
+7b11fc,760664b5,user32.LoadIconA #2004
+7b1200,7607495b,user32.SetRect #2199
+7b1204,76072e02,user32.DispatchMessageA #1683
+7b1208,76068ce9,user32.MoveWindow #2052
+7b120c,760754ad,user32.GetClientRect #1785
+7b1210,7606a47b,user32.GetCursorPos #1797
+7b1214,760753f1,user32.ReleaseDC #2126
+7b1218,7607541c,user32.GetDC #1798
+7b121c,76081f12,user32.CreateDialogParamA #1607
+7b1220,76093b73,user32.EndDialog #1727
+7b1224,7606b2bc,user32.DestroyWindow #1675
+7b1228,7608704a,user32.SetDlgItemTextA #2168
+7b122c,76071b94,user32.SetWindowPos #2223
+7b1230,7607555c,user32.GetWindowRect #1921
+7b1234,76075ff9,user32.GetParent #1865
+7b1238,7606bae7,user32.DefWindowProcA #1664
+7b123c,760beae7,user32.MessageBoxW #2046
+7b1240,76074aa9,user32.CopyRect #1594
+7b1244,76068d30,user32.UnregisterClassA #2286
+7b1248,76092b31,user32.GetPropA #1871
+7b124c,760928b5,user32.SetPropA #2197
+7b1250,76092521,user32.RemovePropA #2129
+7b1254,7606714c,user32.GetClassInfoA #1776
+7b1258,7606bc32,user32.RegisterClassA #2100
+7b125c,76074a67,user32.SetRectEmpty #2200
+7b1260,7607538a,user32.IsWindow #1984
+7b1264,7606b2d0,user32.PostQuitMessage #2080
+---
+IAT at: 7b12bc, size: 30, thunks: c, is_terminated: 0, in_main: 0
+---
+7b12bc,71d5e3d4,winmm.mmioWrite #140
+7b12c0,71d5e324,winmm.mmioAdvance #120
+7b12c4,71d4b190,winmm.mmioSetInfo #137
+7b12c8,71d4b333,winmm.mmioSeek #134
+7b12cc,71d5e516,winmm.mmioCreateChunk #123
+7b12d0,71d4b159,winmm.mmioGetInfo #126
+7b12d4,71d4b3ec,winmm.mmioDescend #124
+7b12d8,71d4b20e,winmm.mmioRead #131
+7b12dc,71d4b2c4,winmm.mmioAscend #121
+7b12e0,71d5e13c,winmm.mmioOpenA #129
+7b12e4,71d4b108,winmm.mmioClose #122
+7b12e8,71d426e0,winmm.timeGetTime #151
+---
+IAT at: 7b1320, size: 5c, thunks: 17, is_terminated: 0, in_main: 0
+---
+7b1320,75c4b6dc,ws2_32.recvfrom #17
+7b1324,75c4a05b,ws2_32.gethostname #57
+7b1328,75c57673,ws2_32.gethostbyname #52
+7b132c,75c43918,ws2_32.closesocket #3
+7b1330,75c441b6,ws2_32.setsockopt #21
+7b1334,75c42d8b,ws2_32.htons #9
+7b1338,75c42d57,ws2_32.htonl #8
+7b133c,75c44582,ws2_32.bind #2
+7b1340,75c4311b,ws2_32.inet_addr #11
+7b1344,75c434b5,ws2_32.sendto #20
+7b1348,75c4449d,ws2_32.shutdown #22
+7b134c,75c46bdd,ws2_32.connect #4
+7b1350,75c44406,ws2_32.WSASend #92
+7b1354,75c46f01,ws2_32.send #19
+7b1358,75c43ab2,ws2_32.WSAStartup #115
+7b135c,75c42d8b,ws2_32.htons #9
+7b1360,75c43c5f,ws2_32.WSACleanup #116
+7b1364,75c437ad,ws2_32.WSAGetLastError #111
+7b1368,75c46989,ws2_32.select #18
+7b136c,75c46a8a,ws2_32.__WSAFDIsSet #151
+7b1370,75c46b0e,ws2_32.recv #16
+7b1374,75c4b131,ws2_32.inet_ntoa #12
+7b1378,75c43eb8,ws2_32.socket #23
+---
+IAT at: 7b13b8, size: 28, thunks: a, is_terminated: 0, in_main: 0
+---
+7b13b8,18007840,binkw32._BinkWait@4 #65
+7b13bc,18008210,binkw32._BinkGetRects@8 #31
+7b13c0,18006ab0,binkw32._BinkDoFrame@4 #25
+7b13c4,18007090,binkw32._BinkShouldSkip@4 #64
+7b13c8,18007180,binkw32._BinkNextFrame@4 #40
+7b13cc,18006680,binkw32._BinkCopyToBufferRect@44 #21
+7b13d0,1800a160,binkw32._BinkOpenDirectSound@4 #42
+7b13d4,18004e00,binkw32._BinkSetSoundSystem@8 #60
+7b13d8,18007600,binkw32._BinkClose@4 #16
+7b13dc,18005630,binkw32._BinkOpen@8 #41
+---
+IAT at: 7b1414, size: 4, thunks: 1, is_terminated: 0, in_main: 0
+---
+7b1414,62080a62,d3d9.Direct3DCreate9 #13
+---
+IAT at: 7b1444, size: 34, thunks: d, is_terminated: 0, in_main: 0
+---
+7b1444,371317,mac3r.?GetCrexID@CMassiveAdObjectSubscriber@MassiveAdClient3@@QAEIXZ #8
+7b1448,371121,mac3r.??0CMassiveAdObjectSubscriber@MassiveAdClient3@@QAE@PBD@Z #1
+7b144c,3711f8,mac3r.??1CMassiveAdObjectSubscriber@MassiveAdClient3@@QAE@XZ #2
+7b1450,37455e,mac3r.?Shutdown@CMassiveClientCore@MassiveAdClient3@@SAHH@Z #32
+7b1454,37446c,mac3r.?Initialize@CMassiveClientCore@MassiveAdClient3@@SAPAV12@PAU__MAD_MASSIVE_INIT_STRUCT@2@@Z #17
+7b1458,373efe,mac3r.?GetState@CMassiveClientCore@MassiveAdClient3@@SA?BW4__MAD_STATE@2@XZ #13
+7b145c,371111,mac3r.?GetName@CMassiveAdObjectSubscriber@MassiveAdClient3@@QAEPBDXZ #12
+7b1460,3746ea,mac3r.?ExitZone@CMassiveClientCore@MassiveAdClient3@@SAHPBD@Z #5
+7b1464,373eeb,mac3r.?GetLastError@CMassiveClientCore@MassiveAdClient3@@SA?BW4__MAD_INTERNAL_ERROR@2@XZ #11
+7b1468,37460c,mac3r.?EnterZone@CMassiveClientCore@MassiveAdClient3@@SAHPBD@Z #4
+7b146c,373c15,mac3r.?Instance@CMassiveClientCore@MassiveAdClient3@@SAPAV12@XZ #18
+7b1470,374c1b,mac3r.?Tick@CMassiveClientCore@MassiveAdClient3@@SAHH@Z #36
+7b1474,37128f,mac3r.?SetImpression@CMassiveAdObjectSubscriber@MassiveAdClient3@@QAEXPAU_MAD_Impression@2@@Z #28
+---
+IAT at: 7b14ac, size: 10, thunks: 4, is_terminated: 0, in_main: 0
+---
+7b14ac,75efe4e1,ole32.CLSIDFromString #18
+7b14b0,75efb576,ole32.CoInitialize #72
+7b14b4,75f29bfb,ole32.CoCreateInstance #26
+7b14b8,75f285c3,ole32.CoUninitialize #119
+---
+IAT at: 7b14e8, size: 8, thunks: 2, is_terminated: 0, in_main: 0
+---
+7b14e8,3511e0,zlib1.compress #2
+7b14ec,359050,zlib1.uncompress #48
+---
+IAT at: 7e0050, size: 4, thunks: 1, is_terminated: 0, in_main: 0
+---
+7e0050,76e86dbd,kernel32.VirtualFree #1267
+---
+IAT at: 7e0058, size: c, thunks: 2, is_terminated: 1, in_main: 0
+---
+7e0058,76e7dea5,kernel32.LoadLibraryA #830
+7e005c,76e7db33,kernel32.GetModuleHandleA #534
+---
+IAT at: 7e0871, size: 14, thunks: 5, is_terminated: 0, in_main: 0
+---
+7e0871,76e7cedc,kernel32.GetProcAddress #582
+7e0875,76e7db33,kernel32.GetModuleHandleA #534
+7e0879,76e7dea5,kernel32.LoadLibraryA #830
+7e087d,76e7c67a,kernel32.VirtualAlloc #1264
+7e0881,76e86dbd,kernel32.VirtualFree #1267
+---
+IAT at: 7e0ccf, size: 20, thunks: 4, is_terminated: 1, in_main: 0
+---
+7e0ccf,6990ebc6,ddraw.DirectDrawCreateEx #10
+7e0cd7,10001060,kidsock.KidSock_Cleanup #2
+7e0cdf,171030,nlogcmd.NLOGCMD_Cleanup #1
+7e0ce7,301ad0,boutcmd.BOUTCMD_GCommandLeaveGame #12
+---
+IAT at: 7e0cf7, size: 10, thunks: 2, is_terminated: 1, in_main: 0
+---
+7e0cf7,62080a62,d3d9.Direct3DCreate9 #13
+7e0cff,5ef6cc8e,dinput8.DirectInput8Create #1
+---
+IAT at: 7e0d0f, size: 8, thunks: 1, is_terminated: 1, in_main: 0
+---
+7e0d0f,51f3de69,dsound.DirectSoundCreate8 #11
+---
+IAT at: 7e0d4f, size: 18, thunks: 3, is_terminated: 1, in_main: 0
+---
+7e0d4f,3511e0,zlib1.compress #2
+7e0d57,371317,mac3r.?GetCrexID@CMassiveAdObjectSubscriber@MassiveAdClient3@@QAEIXZ #8
+7e0d5f,18007840,binkw32._BinkWait@4 #65
+---
+IAT at: 7f4035, size: c, thunks: 2, is_terminated: 1, in_main: 0
+---
+7f4035,76e7dea5,kernel32.LoadLibraryA #830
+7f4039,76e7cedc,kernel32.GetProcAddress #582
