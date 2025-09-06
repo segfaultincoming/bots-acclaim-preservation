@@ -6,3 +6,8 @@ yomama/
 *.lock
 *.lock~
 ~*.db
+
+# Temporary ignores
+ghidra/
+unpacks/
+unpacking/

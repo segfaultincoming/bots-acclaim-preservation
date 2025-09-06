@@ -20,6 +20,8 @@ This repository documents my personal reverse engineering journey - from nostalg
 
 ### 📝 Daily Logs
 
+- **✅ Day 9**: [What really grinds my gears: Import tables](journey/Day_9_WRGMG_Import_tables.md)
+- **✅ Day 8**: [Dora the Explorer](journey/Day_8_Dora_the_Explorer.md)
 - **✅ Day 7**: [The red pill](journey/Day_7_The_red_pill.md)
 - **✅ Day 6**: [Did I?](journey/Day_6_Did_I.md)
 - **✅ Day 5**: [3 IQ](journey/Day_5_3_IQ.md)
