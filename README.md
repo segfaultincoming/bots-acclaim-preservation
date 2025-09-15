@@ -20,6 +20,7 @@ This repository documents my personal reverse engineering journey - from nostalg
 
 ### 📝 Daily Logs
 
+- **✅ Day 10**: [You wouldn't steal a dll?](journey/Day_10_You_wouldnt_steal_a_dll.md)
 - **✅ Day 9**: [What really grinds my gears: Import tables](journey/Day_9_WRGMG_Import_tables.md)
 - **✅ Day 8**: [Dora the Explorer](journey/Day_8_Dora_the_Explorer.md)
 - **✅ Day 7**: [The red pill](journey/Day_7_The_red_pill.md)

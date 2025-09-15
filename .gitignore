@@ -6,6 +6,9 @@ yomama/
 *.lock
 *.lock~
 ~*.db
+*.dll
+*.exp
+*.lib
 
 # Temporary ignores
 ghidra/
