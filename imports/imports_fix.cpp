@@ -17,13 +17,15 @@ struct AddressReset {
 // Array of imports to fix
 // Add new entries here: {"dll_name", "function_name", target_address}
 ImportFix g_importFixes[] = {
-    {"kernel32.dll", "GetVersionExA", 0x00bb0ef4},
+    {"kernel32.dll", "GetVersionExA", 0x00BB0EF4},
     {"kernel32.dll", "GetCommandLineA", 0x00BB0EF8},
     {"kernel32.dll", "GetModuleHandleA", 0x00BB0DF4},
     {"kernel32.dll", "IsBadWritePtr", 0x00BB0F0C},
     {"kernel32.dll", "IsBadReadPtr", 0x00BB0F80},
     {"kernel32.dll", "GetProcAddress", 0x00BB0E34},
-
+    {"kernel32.dll", "lstrcpyA", 0x00BB0E1C},
+    {"kernel32.dll", "GetCurrentProcessId", 0x00BB0FA8},
+    {"user32.dll", "wsprintfA", 0x00BB0E3C},
     // Add more imports here as needed:
     // {"user32.dll", "MessageBoxA", 0x00bb0ef8},
     // {"advapi32.dll", "RegOpenKeyA", 0x00bb0efc},
@@ -34,15 +36,20 @@ ImportFix g_importFixes[] = {
 AddressReset g_addressResets[] = {
     {0x00BAD868, 0x00000000},
     {0x00BADA20, 0x00000000},
-    // Not sure about this one:
     {0x00BADA24, 0x00000000},
     {0x00A6323C, 0x00000000},
-    {0x00a63218, 0x00000000},
-    {0x00a6328c, 0x00000000},
-    {0x00a63258, 0x00000000},
-
-    // Add more address resets here as needed:
-    // {0x00DEADBEEF, 0x12345678},
+    {0x00A63218, 0x00000000},
+    {0x00A6328c, 0x00000000},
+    {0x00A63290, 0x00000000},
+    {0x00A63258, 0x00000000},
+    // Game engine VAT lookup:
+    {0x00B0AA24, 0x009A5244},
+    // Some global pointers
+    {0x00BAF6F8, 0x00000000},
+    // GameGuard:
+    {0x00BAB9E4, 0x00000000},
+    // Load address? Zeroing it out seems to skip GG loading.
+    {0x00A5519C, 0x00000000},
 };
 
 BOOL WriteProtectedMemory(LPVOID address, LPCVOID data, SIZE_T size) {
